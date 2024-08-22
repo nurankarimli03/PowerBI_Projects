@@ -1,1 +1,1 @@
-# PowerBI_Projects
+İlk olaraq, “çirkli data” Power Query-də təmizlənir və yüklənir (File → Close & Apply). Müxtəlif vizual növlərindən (slicer, clustered bar chart, clustered column chart, line chart, donut chart, gauge, table, matrix, map vs) və funksiyalardan (DAX funksiyaları, tarix funksiyaları) istifadə etməklə hesabatlar hazırlanır.
